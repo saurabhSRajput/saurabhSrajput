@@ -11,47 +11,6 @@
 
 ---
 
-### 🟩 My GitHub Contributions (Always Green!)
-
-To show your massive activity, here is a dynamic contribution graph that pulls directly from your GitHub profile. 
-*(It updates automatically, looking beautifully green just like you wanted!)*
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/22c55e/saurabhSRajput" alt="Saurabh's Github Chart" />
-</p>
-
----
-
-### 📊 GitHub Stats & Streaks
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhSRajput&show_icons=true&hide_title=true&bg_color=0D1117&text_color=FFFFFF&icon_color=22C55E&border_color=22C55E&show_icons=true" alt="saurabhSRajput's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhSRajput&theme=dark" alt="saurabhSRajput's GitHub streak" width="48%" />
-</p>
-
----
-
-### 🚀 Top Skills & Technologies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhSRajput&layout=compact&theme=dark&bg_color=0D1117&text_color=FFFFFF&border_color=22C55E" />
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,react,nodejs,fastapi,supabase,mongodb,git,github,linux&theme=dark" />
-  </a>
-</p>
-
----
-
-### 🏆 Achievements
-- 🥇 **Winner** - Hackathon at IIIT Delhi ESYA 2025
-- 🌟 **Google Student Ambassador 2025**
-- 🥈 **Semi-Finalist** - EY Hackathon
-- 📜 **Certified** - Product Management & Agentic AI (IIT Patna)
-
----
 
 ### 📫 Connect with me:
 
