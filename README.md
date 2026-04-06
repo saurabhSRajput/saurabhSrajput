@@ -1,3 +1,65 @@
+<h1 align="center">Hi 👋, I'm Saurabh Raj Singh</h1>
+<h3 align="center">A passionate Data Science & AI Developer from India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saurabhSRajput&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhSRajput" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Data+Science+Student;Agentic+AI+Enthusiast;Full-Stack+Developer;Hackathon+Winner" alt="Typing SVG" /></a>
+</p>
+
+---
+
+### 🟩 My GitHub Contributions (Always Green!)
+
+To show your massive activity, here is a dynamic contribution graph that pulls directly from your GitHub profile. 
+*(It updates automatically, looking beautifully green just like you wanted!)*
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/22c55e/saurabhSRajput" alt="Saurabh's Github Chart" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhSRajput&show_icons=true&hide_title=true&bg_color=0D1117&text_color=FFFFFF&icon_color=22C55E&border_color=22C55E&show_icons=true" alt="saurabhSRajput's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhSRajput&theme=dark" alt="saurabhSRajput's GitHub streak" width="48%" />
+</p>
+
+---
+
+### 🚀 Top Skills & Technologies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhSRajput&layout=compact&theme=dark&bg_color=0D1117&text_color=FFFFFF&border_color=22C55E" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,react,nodejs,fastapi,supabase,mongodb,git,github,linux&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 🏆 Achievements
+- 🥇 **Winner** - Hackathon at IIIT Delhi ESYA 2025
+- 🌟 **Google Student Ambassador 2025**
+- 🥈 **Semi-Finalist** - EY Hackathon
+- 📜 **Certified** - Product Management & Agentic AI (IIT Patna)
+
+---
+
+### 📫 Connect with me:
+
+<p align="center">
+<a href="https://linkedin.com/in/saurabh-raj-singh-302b55272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh-raj-singh-302b55272" height="30" width="40" /></a>
+<a href="https://github.com/saurabhSRajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="saurabhSRajput" height="30" width="40" /></a>
+<a href="mailto:saurabh.300012824049@csvtu.ac.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" /></a>
+</p>
 # 💫 About Me:
 🔭 I’m currently working on AI-based applications and data-driven systems like FloatChat (AI Ocean Data Platform)  <br><br>👯 I’m looking to collaborate on AI, Data Science, and FinTech projects  <br><br>🤝 I’m looking for help with advanced Machine Learning and real-world AI system design  <br><br>🌱 I’m currently learning Data Science, AI systems, and Product Management  <br><br>💬 Ask me about AI projects, Hackathons, FinTech systems, and Problem Solving  <br><br>⚡ Fun fact: I’ve participated in multiple national-level hackathons (EY, IIM, IIT) and love turning ideas into real-world projects 🚀
 
